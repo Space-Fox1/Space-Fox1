@@ -1,0 +1,18 @@
+```json
+{
+  "About me": {
+    "onlineNames": ["SpaceFox", "Unixe"],
+    "status": "Alive, probably",
+    "hobbies": ["gaming", "finding unblocked websites", "bypassing school restrictions", "A little coding in batch", "listening to music"],
+    "language": "English",
+    "isBroke": true,
+    "grades": "bad",
+    "realName": null,
+    "age": null,
+  },
+  "ULTRAKILL": {
+    "MANKIND": "DEAD",
+    "BLOOD": "FUEL",
+    "HELL": "FULL"
+  }
+}
